@@ -1,0 +1,26 @@
+{
+  "name": "ts-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "build": "tsc -p tsconfig.json",
+    "build:watch": "tsc -w -p tsconfig.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/colors": "^1.2.1",
+    "@types/node": "^20.6.4",
+    "discord.js": "^14.13.0",
+    "pg": "^8.11.3",
+    "ts-node": "^10.9.1",
+    "typeorm": "^0.3.17",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
