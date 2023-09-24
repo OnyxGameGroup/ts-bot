@@ -2,7 +2,7 @@ export default {
 	/**
 	 * Discord bot token
 	 */
-	token: "NjYwNDgzNTU5MzMyNzczODk4.GTfDbo.LI6QbY9QFFjaVXSB2-pztaL7gg5An4YJvLbFsQ",
+	token: "NjYwNDgzNTU5MzMyNzczODk4.GG3EBA._6YehZDfIMFoAx9Xl_mMBrWvCQ5vPwlicPMewE",
 
 	/**
 	 * Express server port
